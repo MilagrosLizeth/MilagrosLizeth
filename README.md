@@ -11,5 +11,6 @@
 - Mi curiosidad por saber como se realizan aplicaciones móviles me llevó a tomar varios cursos de programación básica donde aprendí a realizar juegos y aplicaciones mediante bloques de programación, posteriormente me interesé por aprender sobre el mecanismo de los objetos tecnológicos, siendo así decidí estudiar la carrera de Ingeniería Mecatrónica.🤔⚡
 - Me gustaría crear algo nuevo, que sea una herramienta para la sociedad...por el momento quiero concentrarme en aprender para así con las herramientas que vaya adquiriendo poder tomar una idea y buscar la manera de que se concrete. 😄
 - He aprendido un poco de lógica de programación por bloques, en cuanto lenguajes de programación sé Python y un poco de HTML💬
+- Hata el momento he desarrollado algunas aplicaciones educativas  y videojuegos sencillos mediante bloques en las plataformas de Scratch y AppInventor✨
 
 
